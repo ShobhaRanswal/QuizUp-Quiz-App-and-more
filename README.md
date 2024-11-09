@@ -67,7 +67,7 @@ To set up this project locally, follow these steps:
 
 ## Screenshots
 
-_Add screenshots of key pages here (Dashboard, Quiz Page, Leaderboard, etc.)._
+_will be added soon_
 
 ## Contributing
 
