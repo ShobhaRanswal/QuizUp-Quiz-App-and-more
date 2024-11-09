@@ -63,8 +63,7 @@ To set up this project locally, follow these steps:
 
 - **Backend**: Django
 - **Frontend**: HTML, CSS, JavaScript
-- **Database**: SQLite (or mention your database if different)
-- **Libraries**: Include any additional libraries you used (e.g., Django REST Framework)
+
 
 ## Screenshots
 
@@ -77,11 +76,3 @@ _Add screenshots of key pages here (Dashboard, Quiz Page, Leaderboard, etc.)._
 3. Commit your changes (`git commit -m 'Add new feature'`).
 4. Push to the branch (`git push origin feature-name`).
 5. Create a pull request.
-
-## License
-
-This project is licensed under the MIT License.
-
-## Contact
-
-For any questions or feedback, please contact us via the Contact Us page or directly at [your-email@example.com](mailto:your-email@example.com).
